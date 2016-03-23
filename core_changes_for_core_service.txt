@@ -1,0 +1,1 @@
+1)Email-sender has template for thermostats notifications. Need move to core-service.
