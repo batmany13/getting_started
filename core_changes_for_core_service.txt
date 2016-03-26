@@ -1,1 +1,5 @@
-1)Email-sender has template for thermostats notifications. Need move to core-service.
+1. Email-sender has template for thermostats notifications.
+- Author: Ilya
+- Github changes: https://github.com/Brightergy/Core/blob/Production/server/libs/email-sender.js#L144-L158
+- Resolved: No
+2.
