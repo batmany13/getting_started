@@ -7,3 +7,10 @@
 - Github changes: https://github.com/Brightergy/Core/blob/Production/server/general/routes/apis/tag-api-router.js#L187
                   https://github.com/Brightergy/Core/blob/Production/server/general/core/dao/tag-dao.js#L577-L612
 - Resolved: No
+
+3. Custom validation for input params in apis
+- Author: Ilya
+- Github changes: https://github.com/Brightergy/Core/blob/Production/server/general/routes/apis/tag-api-router.js
+                  https://github.com/Brightergy/Core/blob/Production/server/general/routes/apis/user-api-router.js
+                  https://github.com/Brightergy/Core/blob/Production/server/general/routes/apis/account-api-router.js
+- Resolved: No
