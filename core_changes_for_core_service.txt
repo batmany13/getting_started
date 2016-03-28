@@ -2,4 +2,8 @@
 - Author: Ilya
 - Github changes: https://github.com/Brightergy/Core/blob/Production/server/libs/email-sender.js#L144-L158
 - Resolved: No
-2.
+2. Tags search apis
+- Author: Ilya
+- Github changes: https://github.com/Brightergy/Core/blob/Production/server/general/routes/apis/tag-api-router.js#L187
+                  https://github.com/Brightergy/Core/blob/Production/server/general/core/dao/tag-dao.js#L577-L612
+- Resolved: No
