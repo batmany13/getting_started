@@ -20,6 +20,7 @@ __Things to avoid__
 * Keep it Atomic - You will probably see some minor fix while working on your code, but try your best not to fix it as part of your branch.  Unless it is specifically related, create a separate branch from master and do the fix there, trust me you'll thank us for it
 * Branching off of a branch - always branch from master, don't do a branch of a branch
 * Do not check in code without accompanying tests
+* Making changes outside of the Brightergy workspace.  You might feel the need to try some stuff on your personal github and then migrate it, but try to avoid this.  Even if its some test code, you can manage it [here](https://github.com/Brightergy/hackr)
 
 __Things that don't need a branch__
 
