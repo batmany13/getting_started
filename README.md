@@ -1,6 +1,4 @@
-# Getting started
-
-Welcome to the brighterlink GitHub repository.  This is where all of our code is housed, and this is a quick start guide for you to get you quickly acquainted with our system
+Welcome to Brightergy's R&D team, primarily responsible for building the Brighterlink Platform.  This is your one stop shop for getting to know our system, tools, processes and technology better.
 
 ## Development Methodology and Tools
 
@@ -41,6 +39,12 @@ We have a deeply ingrained DevOps culture here, it doesn't mean you have to be a
 [Honeybadger](https://app.honeybadger.io/projects/47512/faults?q=-is%3Aresolved+-is%3Aignored) - For monitoring exceptions    
 [Papertrail](https://papertrailapp.com/systems/brighterlink-api/events?r=656373878381432838-656393487524384768) - For log aggregation (Heroku Add-on)    
 [Loader.io](https://addons-sso.heroku.com/apps/brighterlink-api/addons/f7604646-27e9-494f-86c9-396b823af81c) - Load testing
+
+### Our Deployment Model
+
+* Each branch gets built on Semaphore and tested
+* Merge branch into master after a PR
+* Heroku it is then "automatically" deployed into production
 
 ### Team Collaboration
 
