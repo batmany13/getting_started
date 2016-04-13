@@ -5,11 +5,8 @@ These are tools we've yet to evaluate but will need to
 __Application Performance Management__    
 NewRelic, Exometer, [Elixometer](https://alexgaribay.com/2016/02/27/using-elixometer-with-phoenix/)    
 
-__Monitoring / Alerting__
+__Monitoring / Alerting__    
 PagerDuty, NewRelic, Pingdom    
-
-__Containerization / Virtualization__   
-Docker, Vagrant etc    
 
 __Support / Customer interaction Tool(s)__    
 Desk, Zendesk,Uservoice, TenderApp, Intercom etc    
@@ -29,8 +26,11 @@ AWS Elastic Beanstalk, ECS, Digital Ocean
 __Status Page/Dashboard__     
 statuspages.io, Ducksboard, Geckoboard    
 
-Code Coverage    
+__Code Coverage__    
 [Coveralls](https://coveralls.io/pricing), Code Climate
+
+__Containerization / Virtualization__   
+Docker, Vagrant etc    
 
 ## Third-Party Services
 
