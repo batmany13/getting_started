@@ -68,3 +68,7 @@ We have two main components in our system, our "front end" and our "back end".  
 * Get access to GitHub    
 * Get access to Slack     
 * Give them this page     
+
+### Wiki
+
+The getting started information are available in the [Wiki](https://github.com/Brightergy/getting_started/wiki).
