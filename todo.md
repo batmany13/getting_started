@@ -30,7 +30,7 @@ __Status Page/Dashboard__
 statuspages.io, Ducksboard, Geckoboard    
 
 Code Coverage    
-[Coveralls](https://coveralls.io/pricing)
+[Coveralls](https://coveralls.io/pricing), Code Climate
 
 ## Third-Party Services
 

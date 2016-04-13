@@ -64,7 +64,7 @@ We have two main components in our system, our "front end" and our "back end".  
 
 * [Auth0](https://manage.auth0.com/#/) - handles our user management    
 
-### [TODO](https://github.com/Brightergy/todo.md)
+### [TODO](todo.md)
 
 
 ## New Employee On-boarding Checklist
