@@ -1,4 +1,4 @@
-#TODO
+These are tools we've yet to evaluate but will need to
 
 ## DevOps
 
