@@ -26,7 +26,7 @@ __Things to avoid__
 [Semaphore](https://semaphoreci.com/) - Continuous Integration for testing our builds    
 [GitHub Issues](https://github.com/Brightergy/brighterlink_io/issues) - We track our bugs here   
 [Trello](https://trello.com/brightergy2) - Our sprint boards, we use this with GitHub Issues   
-[Slack](https://brighterlink.slack.com) - This is communication tool   
+[Slack](https://brighterlink.slack.com) - This is our central communication tool   
 
 __Relevant Links__     
 [Dymitruk Model](http://dymitruk.com/blog/2012/02/05/branch-per-feature/)    
