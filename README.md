@@ -9,6 +9,7 @@ Since we do Continous Delivery, we have to employ some specific techniques for o
 
 * Use master as the deployment / golden copy
 * Branch off of master per Issue/Feature, make it as "atomic" as possible
+* Make sure your branch test build passes
 * Pull Request into Master
 * One or more colleagues reviews your PR, makes comments
 * The reviewer merges and deletes the branch
@@ -18,6 +19,12 @@ __Things to avoid__
 
 * Keep it Atomic - You will probably see some minor fix while working on your code, but try your best not to fix it as part of your branch.  Unless it is specifically related, create a separate branch from master and do the fix there, trust me you'll thank us for it
 * Branching off of a branch - always branch from master, don't do a branch of a branch
+* Do not check in code without accompanying tests
+
+__Things that don't need a branch__
+
+* Simple README.md changes
+* Cleaning up white space
 
 ### Our Tools
 [GitHub](https://github.com/Brightergy) - Our code repo, DUH!   
