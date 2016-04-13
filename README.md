@@ -9,6 +9,7 @@ Since we do Continous Delivery, we have to employ some specific techniques for o
 
 * Use master as the deployment / golden copy
 * Branch off of master per Issue/Feature, make it as "atomic" as possible
+* Use human readable branch names, but avoid super long names
 * Make sure your branch test build passes
 * Pull Request into Master
 * One or more colleagues reviews your PR, makes comments
