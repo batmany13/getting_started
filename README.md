@@ -26,10 +26,9 @@ We have three main components in our system, our "front end",  our "back end API
 ### Third Party Tools
 
 * [Auth0](https://manage.auth0.com/#/) - handles our user management    
+* [TODO](todo.md) list of tools
 
-### [TODO](todo.md)
-
-## New Employee On-boarding Checklist
+### New Employee On-boarding Checklist
 
 * Get access to GitHub    
 * Get access to Slack     
