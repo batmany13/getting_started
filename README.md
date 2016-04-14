@@ -13,6 +13,7 @@ Since we do Continous Delivery, we have to employ some specific techniques for o
 * Make sure your branch test build passes
 * Pull Request into Master
 * One or more colleagues reviews your PR, makes comments
+* If there are changes, the committer should comment to say "I am accepting xxx comments"
 * The reviewer merges and deletes the branch
 * Profit
 
