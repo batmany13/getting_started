@@ -19,7 +19,7 @@ We have a deeply ingrained DevOps culture here, it doesn't mean you have to be a
 
 We have three main components in our system, our "front end",  our "back end APIs" and our device code.  The front end is our user interface, and it connects to the backend via Websockets and REST apis.
 
-[Brighterlink UI](https://github.com/Brightergy/control-ui) - Elixir / React / JS Frontend    
+[Brighterlink UI](https://github.com/Brightergy/control-ui) - [Elixir](elixir.md)/Phoenix / React / JS Frontend    
 [Brighterlink API](https://github.com/Brightergy/brighterlink_io) - Elixir/Phoenix Backend    
 [Device Code](https://github.com/Brightergy/HW_EMS_Lite) - Our Digi Gateway code
 
