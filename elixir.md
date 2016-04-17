@@ -10,4 +10,5 @@ Our primary backend lanague is Elixir and we use the Phoenix framework.  Here ar
 
 ### Tips and Tricks
 
-On 
+* On iex, you can do v(xx) to get the variable from the line
+* If you need to reference the Module struct inside the module itself, use `__Module__%{}`

@@ -5,7 +5,7 @@ Welcome to Brightergy's R&D team, primarily responsible for building the Brighte
 We use a Continuous Delivery model here, with weekly "Milestone" sprints (more detail below).  The idea here is, we have a weekly "goal" that we want to hit, but we're pushing code to production constantly, so if we need to fix bugs, or clean up something, we can do it without waiting for an official "release".
 
 [Development Model and Cadence](dev_cadence.md)    
-[Our Dev Tools](our_tools.md)
+[Our Dev Tools](our_tools.md)    
 [Branching Strategy](branching.md)    
 
 ### DevOps Culture
@@ -13,7 +13,7 @@ We use a Continuous Delivery model here, with weekly "Milestone" sprints (more d
 We have a deeply ingrained DevOps culture here, it doesn't mean you have to be an expert on everything, but it means you should care and value all the parts of delivery our product, from the code all the way to running in production and getting customer feedback.
 
 [Our DevOps Model](devops.md)    
-[Our Deployment Tools](our_tools.md)
+[Our Deployment Tools](our_tools.md)    
 
 ### Architecture
 
