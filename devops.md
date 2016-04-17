@@ -1,8 +1,14 @@
 ### Our Deployment Model
 
-* Each branch gets built on Semaphore and tested
-* Merge branch into master after a PR
-* Heroku it is then "automatically" deployed into production
+We are experimenting with Heroku Pipelines for our deployment model.  Pipelines only have 3 stages, "review -> stage -> prod".  This is the model we are using
+
+* Each branch gets tested on Semaphore app
+* Pull request is created, a review app is available but not automatically created
+* Merge the branch into master after a PR
+* Semaphore runs again
+* Stage gets automtically deployed the changes
+* Any additional testing can be done
+* Promote the change from stage->prod, be sure to review the changes
 
 ### Post mortem analysis
 
