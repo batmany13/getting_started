@@ -41,6 +41,10 @@ __Sprint Completion__
 * Look at Milestones and determine if we've met them and any that haven't been met, should be moved to the next Sprint's milestone (unless it was deemed invalid)
 * Complete a Retro for the finishing Sprint, and create necessary todos
 
+__BrighterlinkIO Public Board__
+
+We have a public trello [board](https://trello.com/b/zHSsSxGQ/brighterlink-io).  This is a public-facing board so we don't want to get into too much of the nitty gritty, but it's good to give some high level updates.  Thus, after each sprint, we should move over the items that make sense and then create new ones as needed.
+
 
 ### Useful Links
 
