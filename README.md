@@ -23,7 +23,7 @@ We have three main components in our system, our "front end",  our "back end API
 [Brighterlink API](https://github.com/Brightergy/brighterlink_io) - Elixir/Phoenix Backend    
 [Device Code](https://github.com/Brightergy/HW_EMS_Lite) - Our Digi Gateway code     
 [www](https://github.com/Brightergy/bl_www) - Brighterlink.io website    
-[Misc Tools](https://github.com/Brightergy/BrighterLinkDevOps) - various tools and scripts we have
+[Misc Tools](https://github.com/Brightergy/BrighterLink_DevOps) - various tools and scripts we have
 
 ### Third Party Tools
 
