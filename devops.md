@@ -26,6 +26,7 @@ We use slack for most of our inter-team communications.  There are a few channel
 * [#devy](https://brighterlink.slack.com/archives/devy) - this is pretty much where all of our various tool communications go, so anything from CI to CD to Exceptions go here    
 * [#critical](https://brighterlink.slack.com/archives/critical) - these are critical system alerts, and most likely a "system" down type scenario
 * [#general](https://brighterlink.slack.com/archives/general) - Pull Requests comes to general, so it won't get "lost" in the various notification channels.
+* [#support](https://brighterlink.slack.com/archives/support) - Customer and prospective client communications go here.  Internal support may go here as well
 
 
 ###Useful Links
