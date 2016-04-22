@@ -25,21 +25,19 @@ We hold two types of hackathons.  One is a "business related" hackathon, while a
 
 Here are some simple rules for our board management
 
-* A board should be created for each sprint
-* The board title should be clear and concise so anyone can figure out what you're trying to do
+* We have a ["Main Sprint Board"](https://trello.com/b/WiYowf0f/main-sprint-board) where all current activies go in
+* A new list is created for each Sprint ie "Sprint 3 : Completed".  All completed todos go in here
 * When someone pulls something from todo -> in progress, they should assign themselves to the card.  Each person is responsible for assigning themselves tasks, but sometimes someone may assign a card to you
 * Don't try to stuff too much, if there's over 20 todos, we might have over-stuffed it
 * Things that don't get done, should be moved to the next sprint, or put in the ["Sprint Graveyard"](https://trello.com/b/QQc4J4RQ/sprint-graveyard).  The idea of the graveyard is to put items that don't make sense after we've gotten a bit into it or something we've tabled indefinitely.
 
 __Sprint Completion__
 
-* Move lists (Tabled, Fault Tolerance, Business/Misc) to the new Sprint cycle
-* Change color of the previous sprint to "Gray"
-* Go through In Progress list and move the ones that can not be finished, but the idea is things in "In Progress" shouldn't be left in there for a long time
-* Look at Todos and either move it to Sprint Graveyard or to the next sprint
-* Look at the latest sprint and make sure there's not too many "In progress" or "Todo" items
+* Move Completed tasks to the ["Completed Board"](https://trello.com/b/jgvsWCzu/completed)
+* Look at Todos and either move it to Sprint Graveyard if needed
+* Look at the "In progress" or "Todo" lists and move them back as needed
 * Look at Milestones and determine if we've met them and any that haven't been met, should be moved to the next Sprint's milestone (unless it was deemed invalid)
-* Complete a Retro for the finishing Sprint, and create necessary todos
+* Complete a Retro for the finishing Sprint, and move it to the Completed Board
 
 __BrighterlinkIO Public Board__
 
