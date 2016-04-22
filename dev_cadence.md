@@ -26,7 +26,7 @@ We hold two types of hackathons.  One is a "business related" hackathon, while a
 Here are some simple rules for our board management
 
 * We have a ["Main Sprint Board"](https://trello.com/b/WiYowf0f/main-sprint-board) where all current activies go in
-* A new list is created for each Sprint ie "Sprint 3 : Completed".  All completed todos go in here
+* For each new sprint, two lists are created, a "Milestone" list, and Sprint xx Completed list.  The Milestone list is the targets we have for this particular sprint, and then all completed todos go into the completed list.
 * When someone pulls something from todo -> in progress, they should assign themselves to the card.  Each person is responsible for assigning themselves tasks, but sometimes someone may assign a card to you
 * Don't try to stuff too much, if there's over 20 todos, we might have over-stuffed it
 * Things that don't get done, should be moved to the next sprint, or put in the ["Sprint Graveyard"](https://trello.com/b/QQc4J4RQ/sprint-graveyard).  The idea of the graveyard is to put items that don't make sense after we've gotten a bit into it or something we've tabled indefinitely.
