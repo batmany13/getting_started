@@ -11,8 +11,11 @@ PagerDuty, NewRelic, Pingdom
 __Support / Customer interaction Tool(s)__    
 Desk, Zendesk,Uservoice, TenderApp
 
+__Integration Testing__
+Selenium, PhantomJS, ChromeDriver, [Hound](https://github.com/HashNuke/hound)
+
 __System testing__    
-Chaos Monkey, Runscope (API), Postman (API), SauceLabs (UI), Browserstack (UI)
+Chaos Monkey, Runscope (API), Postman (API), SauceLabs (UI), Browserstack (UI), Ghost Inspector
 
 __Security Monitoring/Testing__    
 Veracode, Qualys, Nexpose by Rapid7     
