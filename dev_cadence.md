@@ -6,16 +6,20 @@ We follow a continuous delivery model.  This means, all changes that are merged 
 
 __Weekly Sprints__   
 
-We need some "sign post" to tell us what we're shooting for.  This is the purpose of our weekly sprints.  The sprints aren't meant to be "release" points, but more a milestone target for us to hit.  These should be reasonable things we want to do and the Trello board should be broken up in these lists:
+It's best to have a "sign post" to let you know where you're going.  This is the purpose of our weekly sprints.  The sprints aren't meant to be "release" points, but a milestone target for us to hit.  These should be reasonable things we want to do and the Trello board should be broken up in these lists:
 
-* Our Milestone - high level target we're shooting for
-* Todo - items we need to do
-* In Progress - what we're currently working on
-* Completed - completed tasks, this could be made up of a few pull requests
+* Sprint XXX Retro (after the sprint is finished) - What we learned, what we want to run post-mortem on
+* Sprint XXX Milestone - high level target we're shooting for this sprint
+* This Sprint - items to do for this sprint, including ones in-progress.  If there's a "member" associated, it's assigned or been worked on
+* Sprint XXX Completed - completed tasks for the specified sprint sprint
+* Teaching Tuesdays - Lessons to be shared by team members
 * Business / Misc - items we need to work on from a business prospective
 * Tabled - Things we need to do but are tabled for now, as we don't need to do it "right this minute".  However, it should be done within the next few sprints
-* TBD - Items we haven't figured out yet, should be cleared as quickly as possible
-* Retro (after the sprint is finished) - What we learned, what we want to run post-mortem on
+* Fault Tolerance - things to consider longer term when it comes to scaling, "long" running tabled items
+
+__GitHub Issues__
+
+So, the big question is, when to use Trello over GitHub issues?  We debated this, and in the end we are using both.  Trello for the "bigger" items, and GitHub for specific bugs and enhancements we need to fix.  GitHub issues should be created for each PR, and in that case, a "card" on Trello could make up multiple pull requests.
 
 __Hackathons__    
 
@@ -34,10 +38,10 @@ Here are some simple rules for our board management
 __Sprint Completion__
 
 * Move Completed tasks to the ["Completed Board"](https://trello.com/b/jgvsWCzu/completed)
-* Look at Todos and either move it to Sprint Graveyard if needed
-* Look at the "In progress" or "Todo" lists and move them back as needed
+* Look at the "This Sprint" list and see where we're at, and if they are completed or not
 * Look at Milestones and determine if we've met them and any that haven't been met, should be moved to the next Sprint's milestone (unless it was deemed invalid)
 * Complete a Retro for the finishing Sprint, and move it to the Completed Board
+* Review the backlog to see what else should be pulled into the "This Sprint" list.
 
 __BrighterlinkIO Public Board__
 
