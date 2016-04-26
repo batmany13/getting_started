@@ -1,6 +1,4 @@
-These are tools we've yet to evaluate but will need to
-
-## DevOps
+Various tools we are looking at
 
 __Application Performance Management__    
 NewRelic, Exometer, [Elixometer](https://alexgaribay.com/2016/02/27/using-elixometer-with-phoenix/)    
