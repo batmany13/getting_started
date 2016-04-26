@@ -8,8 +8,18 @@
 
 ## Our Deployment Tools
 
-[Heroku](https://dashboard.heroku.com/) - PaaS Provider, also use it for Continuous Delivery    
+[Heroku](https://dashboard.heroku.com/) - PaaS Provider, also use it for Continuous Delivery
+[Heroku Pipelines]()
 [PostgresSQL](https://postgres.heroku.com/databases/brighterlink-api-heroku-postgresql-cyan) - Database (Heroku Add-on)    
 [Honeybadger](https://app.honeybadger.io/projects/47512/faults?q=-is%3Aresolved+-is%3Aignored) - For monitoring exceptions    
 [Papertrail](https://papertrailapp.com/systems/brighterlink-api/events?r=656373878381432838-656393487524384768) - For log aggregation (Heroku Add-on)    
 [Loader.io](https://addons-sso.heroku.com/apps/brighterlink-api/addons/f7604646-27e9-494f-86c9-396b823af81c) - Load testing
+
+## Our Support Tools
+
+[Intercom](https://app.intercom.io/a/apps/me33wxbd/activity/mentions) - Chat / Support tool with our customers and prospects
+
+### Third Party Tools
+
+* [Auth0](https://manage.auth0.com/#/) - handles our user management    
+* [TODO](todo.md) list of tools

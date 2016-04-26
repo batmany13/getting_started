@@ -25,11 +25,6 @@ We have three main components in our system, our "front end",  our "back end API
 [www](https://github.com/Brightergy/bl_www) - Brighterlink.io website    
 [Misc Tools](https://github.com/Brightergy/BrighterLink_DevOps) - various tools and scripts we have
 
-### Third Party Tools
-
-* [Auth0](https://manage.auth0.com/#/) - handles our user management    
-* [TODO](todo.md) list of tools
-
 ### New Employee On-boarding Checklist
 
 * Get access to GitHub    

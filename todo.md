@@ -9,17 +9,14 @@ __Monitoring / Alerting__
 PagerDuty, NewRelic, Pingdom    
 
 __Support / Customer interaction Tool(s)__    
-Desk, Zendesk,Uservoice, TenderApp, Intercom etc    
+Desk, Zendesk,Uservoice, TenderApp
 
 __System testing__    
-Chaos Monkey     
+Chaos Monkey, Runscope (API), Postman (API), SauceLabs (UI), Browserstack (UI)
 
 __Security Monitoring/Testing__    
 Veracode, Qualys, Nexpose by Rapid7     
-
-__Deployment__    
-Heroku Pipelines     
-
+  
 __Infrastructure__    
 AWS Elastic Beanstalk, ECS, Digital Ocean     
 
