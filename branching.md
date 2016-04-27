@@ -9,6 +9,8 @@ Since we do Continous Delivery, we have to employ some specific techniques for o
 * Pull Request into Master
 * One or more colleagues reviews your PR, makes comments
 * If there are changes, the committer should comment to say "I am accepting xxx comments"
+* The reviewer should review changes and test code changes before merging a pull request.
+* The reviewer is encouraged to merge and squash the pull request to keep master commits clean and easier to review.
 * The reviewer merges and deletes the branch
 * Profit
 
