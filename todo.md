@@ -6,9 +6,6 @@ NewRelic, Exometer, [Elixometer](https://alexgaribay.com/2016/02/27/using-elixom
 __Monitoring / Alerting__    
 PagerDuty, NewRelic, Pingdom    
 
-__Support / Customer interaction Tool(s)__    
-Desk, Zendesk,Uservoice, TenderApp
-
 __Integration Testing__
 Selenium, PhantomJS, ChromeDriver, [Hound](https://github.com/HashNuke/hound)
 
@@ -30,7 +27,16 @@ __Code Coverage__
 __Containerization / Virtualization__   
 Docker, Vagrant etc    
 
-## Third-Party Services
+### Decided Against / Time not right
+
+__Support / Customer interaction Tool(s)__    
+Desk, Zendesk,Uservoice, TenderApp
+
+__System testing__    
+Postman (API), API Science
+
+
+### Third-Party Services
 
 AWS IoT    
 [Xively](https://brightergy.app.xively.com/login) - IoT Platform [Info](https://trello.com/c/XUSDzXDH/23-xively-prod-credentials)   
