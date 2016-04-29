@@ -1,5 +1,7 @@
 Welcome to Brightergy's R&D team, primarily responsible for building the Brighterlink Platform.  This is your one stop shop for getting to know our system, tools, processes and technology better.
 
+*NOTE : This workspace is always changing to reflect our latest practices and technologies*
+
 ### Development Philosphy
 
 We use a Continuous Delivery model here, with weekly "Milestone" sprints (more detail below).  The idea here is, we have a weekly "goal" that we want to hit, but we're pushing code to production constantly, so if we need to fix bugs, or clean up something, we can do it without waiting for an official "release".
