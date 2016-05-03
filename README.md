@@ -21,9 +21,9 @@ We have a deeply ingrained DevOps culture here, it doesn't mean you have to be a
 
 We have three main components in our system, our "front end",  our "back end APIs" and our device code.  The front end is our user interface, and it connects to the backend via Websockets and REST apis.
 
-[Brighterlink UI](https://github.com/Brightergy/control-ui) - [Elixir](elixir.md)/Phoenix / React / JS Frontend    
+[Brighterlink UI](https://github.com/Brightergy/brighterlink-ui) - [Elixir](elixir.md)/Phoenix / React / JS Frontend    
 [Brighterlink API](https://github.com/Brightergy/brighterlink_io) - Elixir/Phoenix Backend    
-[Device Code](https://github.com/Brightergy/HW_EMS_Lite) - Our Digi Gateway code     
+[Digi](https://github.com/Brightergy/digi-gateway) - Our Digi Gateway code     
 [www](https://github.com/Brightergy/bl_www) - Brighterlink.io website    
 [Misc Tools](https://github.com/Brightergy/BrighterLink_DevOps) - various tools and scripts we have
 
@@ -33,6 +33,7 @@ We have three main components in our system, our "front end",  our "back end API
 * Get access to Slack     
 * Give them this page     
 
-### Wiki
+### Misc
 
-The getting started information are available in the [Wiki](https://github.com/Brightergy/getting_started/wiki).
+[Troubleshooting Guide](https://github.com/Brightergy/getting_started/troubleshooting.md)    
+[Wiki](https://github.com/Brightergy/getting_started/wiki).
