@@ -9,13 +9,14 @@ __Weekly Sprints__
 It's best to have a "sign post" to let you know where you're going.  This is the purpose of our weekly sprints.  The sprints aren't meant to be "release" points, but a milestone target for us to hit.  These should be reasonable things we want to do and the Trello board should be broken up in these lists:
 
 * Sprint XXX Retro (after the sprint is finished) - What we learned, what we want to run post-mortem on
-* Sprint XXX Milestone - high level target we're shooting for this sprint
-* This Sprint - items to do for this sprint, including ones in-progress.  If there's a "member" associated, it's assigned or been worked on
-* Sprint XXX Completed - completed tasks for the specified sprint sprint
+* Sprint XXX Milestone - High level target we're shooting for this sprint
+* This Sprint - Items to do for this sprint, including ones in-progress.  If there's a "member" associated, it's assigned or been worked on
+* Sprint XXX Completed - Completed tasks for the specified sprint sprint
+* Backlog - Items waiting to be assigned to an upcoming sprint
 * Teaching Tuesdays - Lessons to be shared by team members
-* Business / Misc - items we need to work on from a business prospective
+* Business / Misc - Items we need to work on from a business prospective
 * Tabled - Things we need to do but are tabled for now, as we don't need to do it "right this minute".  However, it should be done within the next few sprints
-* Fault Tolerance - things to consider longer term when it comes to scaling, "long" running tabled items
+* Fault Tolerance - Things to consider longer term when it comes to scaling, "long" running tabled items
 
 __GitHub Issues__
 
@@ -30,10 +31,9 @@ We hold two types of hackathons.  One is a "business related" hackathon, while a
 Here are some simple rules for our board management
 
 * We have a ["Main Sprint Board"](https://trello.com/b/WiYowf0f/main-sprint-board) where all current activies go in
-* For each new sprint, two lists are created, a "Milestone" list, and Sprint xx Completed list.  The Milestone list is the targets we have for this particular sprint, and then all completed todos go into the completed list.
-* When someone pulls something from todo -> in progress, they should assign themselves to the card.  Each person is responsible for assigning themselves tasks, but sometimes someone may assign a card to you
+* For each new sprint, two lists are created, a Sprint xx Milestone list, and Sprint xx Completed list.  The Milestone list is the targets we have for this particular sprint, and then all completed todos go into the completed list.
 * Don't try to stuff too much, if there's over 20 todos, we might have over-stuffed it
-* Things that don't get done, should be moved to the next sprint, or put in the ["Sprint Graveyard"](https://trello.com/b/QQc4J4RQ/sprint-graveyard).  The idea of the graveyard is to put items that don't make sense after we've gotten a bit into it or something we've tabled indefinitely.
+* Things that don't get done, should be moved to the next sprint, or moved back to Backlog, or put in the ["Sprint Graveyard"](https://trello.com/b/QQc4J4RQ/sprint-graveyard).  The idea of the graveyard is to put items that don't make sense after we've gotten a bit into it or something we've tabled indefinitely.
 
 __Sprint Completion__
 
