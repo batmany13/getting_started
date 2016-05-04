@@ -2,7 +2,7 @@
 
 __Continuous Delivery__    
 
-We follow a continuous delivery model.  This means, all changes that are merged into master (more info about branching strategy [here](branching.md)).  This pretty much can happen at any time, and we shouldn't ever be afraid of "pushing to production".  Even if there's a bigger change going in, we should be taking bit sized chunks in implementing it.  This model almost forces us to think of problems in smaller consumable chunks, as you never want to have a branch or deployment that has been under development for too long without merging into branch and ran in production
+We follow a continuous delivery model.  This means, all changes are merged into master (more info about branching strategy [here](branching.md)).  This pretty much can happen at any time, and we shouldn't ever be afraid of "pushing to production".  Even if there's a bigger change going in, we should be taking bit sized chunks in implementing it.  This model almost forces us to think of problems in smaller consumable chunks, as you never want to have a branch or deployment that has been under development for too long without merging into branch and ran in production
 
 __Weekly Sprints__   
 
@@ -23,7 +23,7 @@ So, the big question is, when to use Trello over GitHub issues?  We debated this
 
 __Hackathons__    
 
-We hold two types of hackathons.  One is a "business related" hackathon, while another is a "random idea hackathon".  We try to hold hackathons every 4-5 sprints.  The "business related" is something that is related to our business, but may not be specific to the platform we're building.  For instance, 
+We hold two types of hackathons.  One is a "business related" hackathon, while another is a "random idea hackathon".  We try to hold hackathons every 4-5 sprints.  The "business related" is something that is related to our business, but may not be specific to the platform we're building. 
 
 ###Trello Board Management
 

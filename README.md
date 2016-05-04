@@ -23,7 +23,7 @@ We have three main components in our system, our "front end",  our "back end API
 
 [Brighterlink UI](https://github.com/Brightergy/brighterlink-ui) - [Elixir](elixir.md)/Phoenix / React / JS Frontend    
 [Brighterlink API](https://github.com/Brightergy/brighterlink_io) - Elixir/Phoenix Backend    
-[Digi](https://github.com/Brightergy/digi-gateway) - Our Digi Gateway code     
+[Digi](https://github.com/Brightergy/digi_gateway) - Our Digi Gateway code     
 [www](https://github.com/Brightergy/bl_www) - Brighterlink.io website    
 [Misc Tools](https://github.com/Brightergy/BrighterLink_DevOps) - various tools and scripts we have
 
