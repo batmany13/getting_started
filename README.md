@@ -9,6 +9,7 @@ We use a Continuous Delivery model here, with weekly "Milestone" sprints (more d
 [Development Model and Cadence](dev_cadence.md)    
 [Our Dev Tools](our_tools.md)    
 [Branching Strategy](branching.md)    
+[Code Style](code_style.md)
 
 ### DevOps Culture
 
