@@ -6,13 +6,13 @@ We are experimenting with Heroku Pipelines for our deployment model.  Pipelines 
 * Pull request is created, a review app is available but not automatically created
 * Merge the branch into master after a PR
 * Semaphore runs again
-* Stage gets automtically deployed the changes
+* Stage gets automatically deployed with the changes
 * Any additional testing can be done
 * Promote the change from stage->prod, be sure to review the changes
 
 ### Post mortem analysis
 
-A key concept to continuous delivery is to have a "continoue improvement" model, which means we have to have good and productive post mortem analysis for any issues we've run into.  This ensures that the system is always kept fresh and up to date, and we don't take reactionary precautions (ie end continuous delivery) whenver there's a production issue.
+A key concept to continuous delivery is to have a "continuous improvement" model, which means we have to have good and productive post mortem analysis for any issues we've run into.  This ensures that the system is always kept fresh and up to date, and we don't take reactionary precautions (ie end continuous delivery) whenver there's a production issue.
 
 * __No blame culture__ - if any issue arises, we attack the issue, not the person.  Most of the time, it is not the person that failed the system, but the system that failed the person.  In any post mortem, we have to address the root cause
 * __5 Whys__ - This comes from lean startup, but you ask "why" 5 times, to really get down to the root cause.  The concept here is, we should be fixing the root cause, not the symptoms.
