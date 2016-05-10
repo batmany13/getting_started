@@ -20,7 +20,7 @@ It's best to have a "sign post" to let you know where you're going.  This is the
 
 __GitHub Issues__
 
-So, the big question is, when to use Trello over GitHub issues?  We debated this, and in the end we are using both.  Trello for the "bigger" items, and GitHub for specific bugs and enhancements we need to fix.  GitHub issues should be created for each PR, and in that case, a "card" on Trello could make up multiple pull requests.
+So, the big question is, when to use Trello over GitHub issues?  We debated this, and in the end we are using both.  Trello for the "bigger" items, and GitHub for specific bugs and enhancements we need to fix.  GitHub issues should be created for each PR, and in that case, a "card" on Trello could make up multiple pull requests. The only exception to a github issue per PR is pull request related to minor cleanups. The pull request however should be self-descriptive either in code or in PR description.
 
 __Hackathons__    
 
