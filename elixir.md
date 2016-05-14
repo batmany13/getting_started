@@ -8,6 +8,7 @@ Our primary backend lanague is Elixir and we use the Phoenix framework.  Here ar
 [Elixir, the most object oriented language?](http://tech.noredink.com/post/142689001488/the-most-object-oriented-language)    
 [Elixir Forum](http://elixirforum.com/)  
 [Elixir RAM and the template of Doom](http://www.evanmiller.org/elixir-ram-and-the-template-of-doom.html)
+[When to Choose Elixir over Ruby](https://www.amberbit.com/blog/2015/12/22/when-choose-elixir-over-ruby-for-2016-projects/)
 
 ### Tips and Tricks
 
