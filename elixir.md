@@ -10,6 +10,7 @@ Our primary backend lanague is Elixir and we use the Phoenix framework.  Here ar
 [Elixir RAM and the template of Doom](http://www.evanmiller.org/elixir-ram-and-the-template-of-doom.html)    
 [When to Choose Elixir over Ruby](https://www.amberbit.com/blog/2015/12/22/when-choose-elixir-over-ruby-for-2016-projects/)    
 [Mocks and explicit contracts](http://blog.plataformatec.com.br/2015/10/mocks-and-explicit-contracts/)    
+[Tracing and observing remote node](http://blog.plataformatec.com.br/2016/05/tracing-and-observing-your-remote-node/)    
 
 ### Tips and Tricks
 
