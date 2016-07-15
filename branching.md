@@ -24,7 +24,7 @@ __Things to avoid__
 __Things that don't need a branch__
 
 * Simple README.md changes
-* Cleaning up white space
+* Cleaning up white space. An exception is huge amount of whitespaces cleanup which must be a separate PR.
 
 __Relevant Links__     
 [Dymitruk Model](http://dymitruk.com/blog/2012/02/05/branch-per-feature/)    
