@@ -7,6 +7,8 @@ Here are some useful sublime packages
 * [Emmet](http://docs.emmet.io/) - HTML helper functions
 * [Elixir](https://packagecontrol.io/packages/Elixir) - Elixir syntax highlighter
 * [ElixirSublime](https://github.com/vishnevskiy/ElixirSublime) - Elixir Auto Completion
+* [babel-sublime](https://github.com/babel/babel-sublime) - Proper syntax highlighting for ReactJS
+* [ESLint](https://github.com/roadhump/SublimeLinter-eslint) - ESLint to handle Babel syntax
 
 ### Troubleshooting
 
