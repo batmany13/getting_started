@@ -10,7 +10,7 @@ We use a (semi) Continuous Delivery model here, with near constant delivery to p
 [Development Model and Cadence](dev_cadence.md)    
 [Our Dev Tools](our_tools.md)    
 [Branching Strategy](branching.md)    
-[Code Style](code_style.md)
+[Code Style](code_style.md)   
 
 ### DevOps Culture
 
@@ -23,19 +23,21 @@ We have a deeply ingrained DevOps culture here, it doesn't mean you have to be a
 
 We have three main components in our system, our "front end",  our "back end APIs" and our device code.  The front end is our user interface, and it connects to the backend via Websockets and REST apis.
 
-[Brighterlink UI](https://github.com/Brightergy/brighterlink-ui) - [Elixir](elixir.md)/Phoenix / [React / JS Frontend](frontend.md)    
-[Brighterlink API](https://github.com/Brightergy/brighterlink_io) - Elixir/Phoenix Backend    
+[Brighterlink API](https://github.com/Brightergy/brighterlink_io) - [Elixir](elixir.md)/Phoenix Backend    
+[Brighterlink UI](https://github.com/Brightergy/brighterlink-ui) - [React / JS Frontend](frontend.md) (with Phoenix web framework/server)    
 [Digi](https://github.com/Brightergy/digi_gateway) - Our Digi Gateway code     
 [www](https://github.com/Brightergy/bl_www) - Brighterlink.io website    
 [Misc Tools](https://github.com/Brightergy/BrighterLink_DevOps) - various tools and scripts we have
 
 ### New Employee On-boarding Checklist
 
+* Read this   
 * Get access to GitHub    
 * Get access to Slack     
-* Give them this page     
+* Get access to Trello   
 
 ### Misc
 
 [Troubleshooting Guide](https://github.com/Brightergy/getting_started/troubleshooting.md)    
-[Wiki](https://github.com/Brightergy/getting_started/wiki).
+[Our Blog](https://medium.com/@brighterlink)   
+[Our Technical Blog](https://medium.com/brightergy-engineering)   
