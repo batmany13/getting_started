@@ -8,6 +8,7 @@ At Brightergy, we have 3 main core values (listed below), and it fits nicely wit
  * __Continuous Improvement__ - we have to always be getting better, technology moves extremely fast, and a powerful tool today, maybe obselete in a short period of time.  But it doesn't have to just be big things, refactoring code, cleaning up lint errors all is part of continuous imporvement.  (FC, HP)
  * __Care about your craft__ - see a bug that needs fixing, see a broken test, a process that needs improving?  Then fix it, care that what you do is done right, and even though it won't be perfect the first time (which it should almost never be), you care about making it better (HP)
  * __Be Consistent__ - follow [conventions](http://www.phoenixframework.org/), [standards](https://en.wikipedia.org/wiki/Representational_state_transfer), [style guides](code_style.md) are all good things, as it makes it easier to collaborate with teammates and allows us to execute faster as we follow well known systems and frameworks (HP)
+ * __Have Fun__ - work shouldn't be "work", it should be fun, you should want to come in and do great work.  You also are not too serious about yourself or your code, and you enjoy having a good time with your colleagues.  If this ever becomes a job, we're in a serious trouble (HP)
 
 ###Be bold (BB)
 Reimagining energy means taking risks and challenging the status quo. We’re trailblazers defining a new industry and we embrace this with confidence. 
