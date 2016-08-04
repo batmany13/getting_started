@@ -6,7 +6,7 @@ Welcome to Brightergy's R&D team, primarily responsible for building the Brighte
 
 We use a (semi) Continuous Delivery model here, with near constant delivery to production, structured by weekly sprints and monthly milestones (more detail below).  The idea here is, we have a milestone with some key high level points, then break it down to digestable weekly sprints, and then push code to production continuously as we build up the systems.  This allows us to continuously improve our system without waiting for an official "release".
 
-[Our Core Values](principles.md)  
+[Our Core Values](our_values.md)  
 [Development Model and Cadence](dev_cadence.md)    
 [Our Dev Tools](our_tools.md)    
 [Branching Strategy](branching.md)    
