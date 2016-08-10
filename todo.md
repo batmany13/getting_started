@@ -13,7 +13,7 @@ __System testing__
 Chaos Monkey, Runscope (API), Postman (API), SauceLabs (UI), Browserstack (UI), Ghost Inspector
 
 __Security Monitoring/Testing__    
-Veracode, Qualys, Nexpose by Rapid7, [MPen Test Partners](https://www.pentestpartners.com/penetration-testing-services/)
+Veracode, Qualys, Nexpose by Rapid7, [Pen Test Partners](https://www.pentestpartners.com/penetration-testing-services/)   
   
 __Infrastructure__    
 AWS Elastic Beanstalk, ECS, Digital Ocean     

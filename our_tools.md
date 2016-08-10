@@ -14,6 +14,11 @@
 [Heroku Pipelines](https://dashboard-preview.heroku.com/pipelines/96c8bda9-9e99-4f94-8605-7ed6cf9c8261) - Pipeline for Front end and backend   
 [Honeybadger](https://app.honeybadger.io/projects/47512/faults?q=-is%3Aresolved+-is%3Aignored) - For monitoring exceptions    
 [Papertrail](https://papertrailapp.com/systems/brighterlink-api/events?r=656373878381432838-656393487524384768) - For log aggregation (Heroku Add-on)    
+### Our Design Tools
+
+[InVision](https://projects.invisionapp.com/d/main#/projects) - For UI/UX prototyping (our own account)   
+[ShutterStock](http://www.shutterstock.com) - Used for stock photos (our paid account)   
+
 
 ### Our Datastores
 
