@@ -10,7 +10,7 @@ We use a (semi) Continuous Delivery model here, with near constant delivery to p
 [Development Model and Cadence](dev_cadence.md)    
 [Our Dev Tools](our_tools.md)    
 [Branching Strategy](branching.md)    
-[Design Thinking](ux.md)
+[Design Thinking](ux.md)   
 [Code Style](code_style.md)   
 
 ### DevOps Culture
